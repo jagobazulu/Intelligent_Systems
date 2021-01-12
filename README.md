@@ -1,3 +1,3 @@
 # Intelligent_Systems
 
-The code is not complete but I was is done can be runned directely.
+The code is not complete but what is done can be runned directely.
